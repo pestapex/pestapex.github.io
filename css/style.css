@@ -2095,10 +2095,10 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
+  background-color: #6c7d76;
   border-color: #6c757d; }
   .btn-secondary:hover {
-    color: #fff;
+    color: #fff;s
     background-color: #5a6268;
     border-color: #545b62; }
   .btn-secondary:focus, .btn-secondary.focus {
@@ -8011,8 +8011,9 @@ h1, h2, h3, h4, h5,
 .text-primary {
   color: #fda729 !important; }
 
+  /* top banner */ 
 .bg-top {
-  background: #022d5d; }
+  background: #b22222; }
 
 .topper {
   font-size: 15px;
@@ -8079,9 +8080,10 @@ h1, h2, h3, h4, h5,
     .searchform .search span {
       font-size: 20px; }
 
+      
 .ftco-navbar-light {
   background: transparent !important;
-  background: #1683fb !important;
+  background: #361e1b !important; /* MAE MENU BANNER COLOR */
   z-index: 3;
   padding: 0; }
   @media (max-width: 991.98px) {
@@ -8533,7 +8535,7 @@ h1, h2, h3, h4, h5,
         border-color: #fff;
         color: #fda729; }
   .btn.btn-secondary {
-    background: #1683fb;
+    background: #fda729; /* MAE CUSTOM BUTTON COLOR */
     border: 1px solid #1683fb;
     color: #fff; }
     .btn.btn-secondary:hover, .btn.btn-secondary:focus, .btn.btn-secondary:active {
