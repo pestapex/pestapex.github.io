@@ -8527,7 +8527,7 @@ h1, h2, h3, h4, h5,
       -webkit-border-radius: 30px;
       -moz-border-radius: 30px;
       -ms-border-radius: 30px;
-      border-radius: 30px;
+      border-radius: 30px; 
       border-width: 1px;
       color: #fff; }
       .btn.btn-white.btn-outline-white:hover, .btn.btn-white.btn-outline-white:focus, .btn.btn-white.btn-outline-white:active {
